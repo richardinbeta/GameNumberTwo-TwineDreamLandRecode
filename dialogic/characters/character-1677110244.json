@@ -1,0 +1,21 @@
+{
+	"color": "#ffa61e1e",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1677110244.json",
+	"mirror_portraits": false,
+	"name": "theBear",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://addons/dialogic/Example Assets/portraits/df-2.png"
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}
