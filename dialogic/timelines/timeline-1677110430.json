@@ -25,6 +25,37 @@
 			"event_id": "dialogic_001",
 			"portrait": "",
 			"text": "wow this is my first piece of dialoge here!"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "which way to the gnomes house?"
+		},
+		{
+			"choice": "right",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1677370968.json",
+			"event_id": "dialogic_020"
+		},
+		{
+			"choice": "left",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"change_timeline": "timeline-1677371035.json",
+			"event_id": "dialogic_020"
 		}
 	],
 	"metadata": {

@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "there was a long silence as those around the fire held their breath intently.\n\nthen at last, with a large roar.... the first came to life!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677370968.json",
+		"name": "sceneOne"
+	}
+}

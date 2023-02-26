@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "where have the time gone? too far down the road had we came. there was no turning back now.\n\nfate be it then."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.5",
+		"file": "timeline-1677371035.json",
+		"name": "sceneTwo"
+	}
+}
